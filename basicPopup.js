@@ -19,5 +19,5 @@
     footer.appendChild(footerBtn);
     document.body.appendChild(dialog);
     // open dialog
-    dialog.open();
+    dialog.show();
 })();
